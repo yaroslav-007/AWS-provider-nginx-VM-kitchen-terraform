@@ -18,7 +18,7 @@ Simple kitchen test code for checking ami image
 
 2. Pupulate variables in testing.tfvars
 
-3.
+3. Perform the following commands
 ```
     git clone https://github.com/yaroslav-007/AWS-provider-nginx-VM-kitchen-terraform.git
     cd AWS-provider-nginx-VM-kitchen-terraform
