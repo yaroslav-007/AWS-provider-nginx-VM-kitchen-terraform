@@ -1,0 +1,6 @@
+access_key = "<enter access_key>"
+secret_key = "<enter secret_key>"
+key_name = "<enter pem file>"
+region = "us-east-1"
+ami = "<enter ami id>"
+instance_type = "m3.medium"
